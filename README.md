@@ -2,7 +2,13 @@
     <img width="200" src="https://codebook.xanadu.ai/xanadu_logo.svg" alt="Material Bread logo">
 </p>
 
+
 <h1 align="center">XANADU QUANTUM CODEBOOK </h1>
+
+
+
+![](https://github.com/MonitSharma/Xanadu-Quantum-Codebook-Solutions/blob/main/Xanadu.png)
+
 
 ## Introduction
 
