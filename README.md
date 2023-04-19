@@ -1,3 +1,5 @@
+This repository contains my solutions to the Xanadu Quantum Codebook, which is an open source, free resource for learning the fundamentals of quantum computing using the PennyLane python library!
+
 <p align="center">
     <img width="200" src="https://codebook.xanadu.ai/xanadu_logo.svg" alt="Material Bread logo">
 </p>
